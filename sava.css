@@ -1,0 +1,19 @@
+html{
+    color: #FF9200 ;
+    background-color: #3016B0;
+    font-family: PT Sans Narrow;
+}
+p{
+    font-size: 23px;
+}
+div {
+    width: 80%;
+    margin: auto;
+}
+img{
+    max-width: 70%;
+    height: auto;
+    margin: 10px auto 20px;
+    display: block;
+    border-radius: 30px;
+}
