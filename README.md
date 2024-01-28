@@ -1,1 +1,1 @@
-# SecretKotic.github.io
+# SecretKot.github.io
